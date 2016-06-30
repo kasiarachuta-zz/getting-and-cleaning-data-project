@@ -4,7 +4,7 @@ The goal is to prepare tidy data that can be used for later analysis. <br>
 <br>
 This repo contains:<br>
 a) a tidy dataset<br>
-b) the script performing the analysis<br>
+b) the script performing the analysis (run_analysis.R)<br>
 c) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
 
 This script should do the following activities - in 5 steps:<br>
