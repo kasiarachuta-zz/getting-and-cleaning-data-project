@@ -1,15 +1,3 @@
-Skip to content
-Personal Open source Business Explore
-Sign upSign inPricingBlogSupport
-This repository
-Search
-Watch 2  Star 3  Fork 156 OscarPDR/Coursera-Getting-and-Cleaning-Data-Course-Project
-Code  Issues 0  Pull requests 0  Pulse  Graphs
-Branch: master Find file Copy pathCoursera-Getting-and-Cleaning-Data-Course-Project/run_analysis.R
-cf05e92  Aug 24, 2014
-@OscarPDR OscarPDR Added missing library
-1 contributor
-RawBlameHistory     69 lines (48 sloc)  2.13 KB
 library(plyr)
 
 # Step 1
